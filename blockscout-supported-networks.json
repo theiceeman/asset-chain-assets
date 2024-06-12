@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Asset Chain", 
+        "url": "https://blockscout.com/poa/core",
+        "group":"Mainnets",
+		"isActive": true,
+		"icon": "https://raw.githubusercontent.com/xendfinance/assets/main/AC-Secondary%20Logo_White.png"
+    },
+    { 
+        "title": "Asset Chain Testnet", 
+        "url": "https://blockscout.com/poa/sokol",
+        "group":"Testnets",
+		"icon": "https://raw.githubusercontent.com/xendfinance/assets/main/AC-Secondary%20Logo_White.png"
+    }
+]
