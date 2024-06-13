@@ -4,15 +4,15 @@
     "links": [
       {
         "text": "Contact us",
-        "url": "https://"
+        "url": "https://example.com"
       },
       {
         "text": "Terms & Condition",
-        "url": "https://"
+        "url": "https://example.com"
       },
       {
         "text": "Privacy Policy",
-        "url": "https://"
+        "url": "https://example.com"
       }
     ]
   },
@@ -21,7 +21,7 @@
     "links": [
       {
         "text": "Bridge (Testnet)",
-        "url": "https://"
+        "url": "https://example.com"
       },
       {
         "text": "Swap (Testnet)",
@@ -34,11 +34,11 @@
     "links": [
       {
         "text": "Documentation",
-        "url": "https://"
+        "url": "https://example.com"
       },
       {
         "text": "Asset Chain Academy",
-        "url": "https://"
+        "url": "https://example.com"
       },
       {
         "text": "GitHub",
@@ -46,7 +46,7 @@
       },
       {
         "text": "Status",
-        "url": "https://"
+        "url": "https://example.com"
       }
     ]
   },
