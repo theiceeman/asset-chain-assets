@@ -33,11 +33,11 @@
     "title": "Developers",
     "links": [
       {
-        "text": "Documentation",
+        "text": "Asset Chain Academy",
         "url": "https://example.com"
       },
       {
-        "text": "Asset Chain Academy",
+        "text": "Documentation",
         "url": "https://example.com"
       },
       {
@@ -58,24 +58,24 @@
         "url": "http://web.facebook.com/XendFinance"
       },
       {
-        "text": "Twitter",
-        "url": "https://twitter.com/xendfinance"
-      },
-      {
         "text": "Telegram",
         "url": "https://t.me/XendFinanceDevs"
       },
       {
-        "text": "Reddit",
-        "url": "http://www.reddit.com/r/XendFinance/"
+        "text": "Youtube",
+        "url": "https://www.youtube.com/@XendFinance"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/xendfinance"
       },
       {
         "text": "Discord",
         "url": "https://discord.gg/QGHb7jp2GV"
       },
       {
-        "text": "Youtube",
-        "url": "https://www.youtube.com/@XendFinance"
+        "text": "Reddit",
+        "url": "http://www.reddit.com/r/XendFinance/"
       },
       {
         "text": "Blog",
