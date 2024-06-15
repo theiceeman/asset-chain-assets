@@ -4,15 +4,15 @@
     "links": [
       {
         "text": "Contact us",
-        "url": "https://example.com"
+        "url": "https://xend.finance"
       },
       {
         "text": "Terms & Condition",
-        "url": "https://example.com"
+        "url": "https://xend.finance/terms"
       },
       {
         "text": "Privacy Policy",
-        "url": "https://example.com"
+        "url": "https://xend.finance/policy"
       }
     ]
   },
@@ -21,7 +21,7 @@
     "links": [
       {
         "text": "Bridge (Testnet)",
-        "url": "https://example.com"
+        "url": "https://swap-bridge.assetchain.org/"
       },
       {
         "text": "Swap (Testnet)",
@@ -34,11 +34,11 @@
     "links": [
       {
         "text": "Asset Chain Academy",
-        "url": "https://example.com"
+        "url": "https://academy.assetchain.org"
       },
       {
         "text": "Documentation",
-        "url": "https://example.com"
+        "url": "https://docs.assetchain.org"
       },
       {
         "text": "GitHub",
@@ -46,7 +46,7 @@
       },
       {
         "text": "Status",
-        "url": "https://example.com"
+        "url": "https://coming-soon.com"
       }
     ]
   },
