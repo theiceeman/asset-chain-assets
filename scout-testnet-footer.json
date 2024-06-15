@@ -21,11 +21,19 @@
     "links": [
       {
         "text": "Bridge (Testnet)",
-        "url": "https://swap-bridge.assetchain.org/"
+        "url": "https://swap-bridge.assetchain.org"
       },
       {
         "text": "Swap (Testnet)",
-        "url": "https://swap-testnet.assetchain.org/"
+        "url": "https://swap-testnet.assetchain.org"
+      },
+      {
+        "text": "Staking (Testnet)",
+        "url": "https://testnet-stake.assetchain.org"
+      },
+      {
+        "text": "Basic Explorer (Testnet)",
+        "url": "https://testnet.assetchain.org"
       }
     ]
   },
