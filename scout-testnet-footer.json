@@ -32,6 +32,10 @@
         "url": "https://testnet-stake.assetchain.org"
       },
       {
+        "text": "Faucet (Testnet)",
+        "url": "https://faucet.assetchain.org"
+      },
+      {
         "text": "Basic Explorer (Testnet)",
         "url": "https://testnet.assetchain.org"
       }
