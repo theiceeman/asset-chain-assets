@@ -20,6 +20,10 @@
     "title": "Products",
     "links": [
       {
+        "text": "Testnet Leaderboard",
+        "url": "https://leaderboard.assetchain.org"
+      },
+      {
         "text": "Bridge (Testnet)",
         "url": "https://swap-bridge.assetchain.org"
       },
