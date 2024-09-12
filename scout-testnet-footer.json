@@ -70,32 +70,28 @@
     "title": "Community",
     "links": [
       {
-        "text": "Facebook",
-        "url": "http://web.facebook.com/XendFinance"
-      },
-      {
-        "text": "Telegram",
-        "url": "https://t.me/XendFinanceDevs"
-      },
-      {
-        "text": "Youtube",
-        "url": "https://www.youtube.com/@XendFinance"
-      },
-      {
         "text": "Twitter",
-        "url": "https://twitter.com/xendfinance"
+        "url": "https://x.com/rwaassetchain"
       },
       {
         "text": "Discord",
-        "url": "https://discord.gg/QGHb7jp2GV"
+        "url": "https://discord.gg/Bd2RSPcy"
       },
       {
-        "text": "Reddit",
-        "url": "http://www.reddit.com/r/XendFinance/"
+        "text": "Telegram",
+        "url": "https://t.me/AssetChainBuilders"
+      },
+      {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/@AssetChain"
+      },
+      {
+        "text": "LinkedIn",
+        "url": " https://www.linkedin.com/company/theassetchain"
       },
       {
         "text": "Blog",
-        "url": " https://medium.com/xendfinance"
+        "url": "http://medium.com/xendfinance"
       }
     ]
   }
